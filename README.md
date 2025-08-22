@@ -6,9 +6,7 @@
 
 1.02-Kod optimize edildi ve thread sistemi eklendi
 
-[![Hits](https://hits.sh/github.com/allahnumberone/enough-V2.svg?label=views&color=cc1111)](https://hits.sh/github.com/allahnumberone/enough-V2/)
 
-<img src=https://github.com/allahnumberone/enough-V2/assets/165521096/9352982e-6cc4-4ed4-8cac-9171b39e1351 height="200px" width="400px"/>
 
 <h3>Kurulum</h3>
 
@@ -32,3 +30,4 @@ Pip modullerini otomatik olarak eğer sizde indirilmediyse indirecektir tek yapm
 Çalmak serbest istediğinz gibi fontlarla oynayın credit salın yeter
 
 Soru ve yardım için discord : cyrozer_
+
