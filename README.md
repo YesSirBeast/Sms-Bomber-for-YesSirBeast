@@ -1,4 +1,4 @@
-# Enough V2
+# YesSirBeast V2
 
 <h2>Credits : https://github.com/tingirifistik/Enough-Reborn</h2>
 
@@ -30,4 +30,5 @@ Pip modullerini otomatik olarak eğer sizde indirilmediyse indirecektir tek yapm
 Çalmak serbest istediğinz gibi fontlarla oynayın credit salın yeter
 
 Soru ve yardım için discord : cyrozer_
+
 
