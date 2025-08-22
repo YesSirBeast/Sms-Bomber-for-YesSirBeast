@@ -1,6 +1,7 @@
 {
-    "default_phone": "5526855036",
+    "default_phone": "",
     "default_mail": "",
     "verbose_logging": true,
-    "default_thread_count": 3000
+    "default_thread_count": 1
+
 }
